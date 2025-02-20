@@ -1,0 +1,5 @@
+To run the JSON Server:
+
+json-server --watch data/db.json --port 5000 (primary for this project)
+
+npx json-server ./data/db.json (usual)

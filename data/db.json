@@ -1,0 +1,59 @@
+{
+  "employees": [
+    {
+      "id": "90bc",
+      "empID": "61679",
+      "empName": "Sayan",
+      "empDOB": "2000-06-06",
+      "empJob": "Software Engineer",
+      "empQualification": "B.Tech",
+      "empExperience": "2",
+      "empGender": "Male",
+      "empEmail": "sayan@gmail.com"
+    },
+    {
+      "empID": "61685",
+      "empName": "Navapreetam",
+      "empDOB": "2000-02-19",
+      "empJob": "Hacker",
+      "empQualification": "M.Tech",
+      "empExperience": "5",
+      "empGender": "Male",
+      "empEmail": "navap@gmail.com",
+      "id": "47d4"
+    },
+    {
+      "id": "3361",
+      "empID": "89045",
+      "empName": "Siddharth",
+      "empDOB": "2004-03-06",
+      "empJob": "Hacker",
+      "empQualification": "Ph.D",
+      "empExperience": "10",
+      "empGender": "Male",
+      "empEmail": "sid@gmail.com"
+    },
+    {
+      "empID": "90876",
+      "empName": "Sahana",
+      "empDOB": "2001-04-07",
+      "empJob": "Manager",
+      "empQualification": "MBA",
+      "empExperience": "12",
+      "empGender": "Female",
+      "empEmail": "sahanaroy@gmail.com",
+      "id": "50c3"
+    },
+    {
+      "empID": "78952",
+      "empName": "Samay Raina",
+      "empDOB": "2000-04-18",
+      "empJob": "CHRO",
+      "empQualification": "MBA",
+      "empExperience": "7",
+      "empGender": "Male",
+      "empEmail": "samayraina@gmal.com",
+      "id": "9b8b"
+    }
+  ]
+}
